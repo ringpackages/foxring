@@ -5,11 +5,11 @@ aPackageInfo = [
 	:developer = "Mahmoud Fayed",
 	:email = "msfclipper@yahoo.com",
 	:license = "MIT License",
-	:version = "1.0.1",
-	:ringversion = "1.10",
+	:version = "1.0.2",
+	:ringversion = "1.13",
 	:versions = 	[
 		[
-			:version = "1.0.1",
+			:version = "1.0.2",
 			:branch = "master"
 		]
 	],
@@ -25,12 +25,12 @@ aPackageInfo = [
 		"README.md"
 	],
 	:ringfolderfiles = 	[
-		"bin/foxring.ring",
-		"ringlibs/foxring/ChangeLog.txt",
-		"ringlibs/foxring/foxring.ring",
-		"ringlibs/foxring/README.md",
-		"ringlibs/foxring/sample.ring",
-		"ringlibs/foxring/test.ring"
+		"bin/load/foxring.ring",
+		"libraries/foxring/ChangeLog.txt",
+		"libraries/foxring/foxring.ring",
+		"libraries/foxring/README.md",
+		"libraries/foxring/sample.ring",
+		"libraries/foxring/test.ring"
 	],
 	:windowsfiles = 	[
 
