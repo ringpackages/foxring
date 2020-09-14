@@ -28,9 +28,7 @@ aPackageInfo = [
 		"bin/load/foxring.ring",
 		"libraries/foxring/ChangeLog.txt",
 		"libraries/foxring/foxring.ring",
-		"libraries/foxring/README.md",
-		"libraries/foxring/sample.ring",
-		"libraries/foxring/test.ring"
+		"libraries/foxring/README.md"
 	],
 	:windowsfiles = 	[
 
